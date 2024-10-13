@@ -1,0 +1,6 @@
+@TrackingApp.SensorDataService_HostAddress = http://localhost:5189
+
+GET {{TrackingApp.SensorDataService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
